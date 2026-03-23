@@ -1,6 +1,6 @@
 
 ### Freecode Username
-@@johngarciaaa
+@johngarciaaa
 https://cit82.github.io/john-pub/
 - Shift+windows+s
 - Squoosh Resize
