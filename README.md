@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Freecode Username
 @@johngarciaaa
 https://cit82.github.io/john-pub/
