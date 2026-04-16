@@ -1,6 +1,10 @@
 body {
   background-image: url(bg-image.jpg);
-  font-family: sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  font-family: "Roboto", sans-serif;
   padding: 20px;
 }
 
@@ -22,9 +26,9 @@ h1 {
 
 h2 {
   font-size: 30px;
-  font-family: Impact, serif;
   text-align: center;
   margin-bottom: 10px;
+  font-family: Impact, "Arial Narrow", sans-serif;
 }
 
 .established {
