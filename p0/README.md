@@ -23,3 +23,41 @@ The `<head>` section of the Craftivo template includes external libraries and re
 
 - **style.css**
   The main stylesheet that controls layout, colors, spacing, and overall design of the website.
+  # Phase 2: Site Inventory (Top Half of index.html)
+
+The top half of the website is divided into major functional sections that define the structure and user experience.
+
+---
+
+## Header / Navigation
+- Contains the logo and navigation links
+- Allows users to move between sections of the site
+- Main classes: `header`, `navbar`
+
+---
+
+## Hero Section
+- Main landing section at the top of the page
+- Includes title, subtitle, and call-to-action button
+- Main class: `hero`
+
+---
+
+## About Section
+- Introduces the website or company
+- Provides background information and purpose
+- Main class: `about`
+
+---
+
+## Services Section
+- Displays services or features offered
+- Uses icons and short descriptions
+- Main classes: `services`, `icon-box`
+
+---
+
+## Portfolio Section
+- Shows project images and work samples
+- Uses GLightbox for image popup viewing
+- Main classes: `portfolio`, `portfolio-item`
