@@ -1,63 +1,63 @@
 # Phase 1: Head Section Analysis
 
-The `<head>` section of the Craftivo template includes external libraries and resources that support the design and functionality of the website.
+In the `<head>` section of my Craftivo template, there are a few external libraries and files that help the website work and look better.
 
 ## External Libraries:
 
 - **Bootstrap CSS**
-  Provides the responsive grid system and layout structure. It makes the website mobile-friendly and organizes content into rows and columns.
+  This helps with the layout of the website. It makes the page responsive so it works on different screen sizes like phone and desktop.
 
 - **Bootstrap Icons**
-  A library of vector icons used for UI elements like social media icons, navigation icons, and contact icons.
+  This is a set of ready-made icons like social media icons, email icons, and navigation icons that I can use in my website.
 
 - **Google Fonts**
-  Loads custom fonts used throughout the website to improve typography and design.
+  This loads custom fonts that make the website look more modern and better designed.
 
-- **AOS (Animate On Scroll) CSS**
-  Adds animations that trigger when elements appear on screen while scrolling.
+- **AOS (Animate On Scroll)**
+  This library adds animations when you scroll down the page. For example, elements fade in or slide in when they appear on screen.
 
-- **GLightbox CSS**
-  Styles the image popup (lightbox) feature used in the portfolio section.
+- **GLightbox**
+  This is used for image popups. When you click an image in the portfolio, it opens in a bigger popup view instead of a new page.
 
 ## Custom CSS:
 
 - **style.css**
-  The main stylesheet that controls layout, colors, spacing, and overall design of the website.
+  This is my main CSS file where the design of the whole website is controlled, like colors, spacing, and layout. 
   # Phase 2: Site Inventory (Top Half of index.html)
 
-The top half of the website is divided into major functional sections that define the structure and user experience.
+The top part of the website is split into different sections that make up the main layout of the page.
 
 ---
 
 ## Header / Navigation
-- Contains the logo and navigation links
-- Allows users to move between sections of the site
-- Main classes: `header`, `navbar`
+- This is the top menu of the website
+- It includes the logo and links to different sections
+- Main classes used: `header`, `navbar`
 
 ---
 
 ## Hero Section
-- Main landing section at the top of the page
-- Includes title, subtitle, and call-to-action button
+- This is the first section people see when they open the site
+- It usually has a title, short text, and a button
 - Main class: `hero`
 
 ---
 
 ## About Section
-- Introduces the website or company
-- Provides background information and purpose
+- This section talks about what the website or company is about
+- It gives background information
 - Main class: `about`
 
 ---
 
 ## Services Section
-- Displays services or features offered
-- Uses icons and short descriptions
+- This shows what services or features are offered
+- It uses icons and short descriptions
 - Main classes: `services`, `icon-box`
 
 ---
 
 ## Portfolio Section
-- Shows project images and work samples
-- Uses GLightbox for image popup viewing
+- This shows project images or work examples
+- When you click an image, it opens in a popup using GLightbox
 - Main classes: `portfolio`, `portfolio-item`
