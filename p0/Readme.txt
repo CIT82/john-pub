@@ -1,5 +1,5 @@
 Thanks for downloading this template!
-s
+s.
 Template Name: Craftivo
 Template URL: https://bootstrapmade.com/craftivo-bootstrap-portfolio-template/
 Author: BootstrapMade.com
