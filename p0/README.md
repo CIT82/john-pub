@@ -104,3 +104,25 @@ The top part of the website is split into different sections that make up the ma
 - `footer`
 - `social-links`
 - `copyright`
+# Phase 4: Scripts Analysis
+
+At the bottom of the `index.html` file, there are several JavaScript files being loaded. These scripts are used to add interactivity and animations to the website.
+
+## Vendor JS Files
+- **Lines:** (add your real line numbers here)  
+- These are external libraries used by the template.
+
+**Libraries included:**
+- AOS (Animate On Scroll)
+- GLightbox
+- Swiper
+- Bootstrap JS (if included in your file)
+
+---
+
+## Main JS File
+- **Lines:** (add your real line numbers here)  
+- This is the main script file that controls the website’s custom behavior.
+
+**File used:**
+- `main.js`
