@@ -61,3 +61,46 @@ The top part of the website is split into different sections that make up the ma
 - This shows project images or work examples
 - When you click an image, it opens in a popup using GLightbox
 - Main classes: `portfolio`, `portfolio-item`
+# Phase 3: Content & Footer Inventory
+
+## Portfolio Section
+- **Lines:** (fill in your real lines)  
+- This part shows projects or work with images.
+
+**Power Classes:**
+- `portfolio`
+- `portfolio-container`
+- `portfolio-item`
+- `portfolio-info`
+
+---
+
+## Services Section
+- **Lines:** (fill in your real lines)  
+- This part shows the services offered with icons and short text.
+
+**Power Classes:**
+- `services`
+- `icon-box`
+
+---
+
+## Contact Section
+- **Lines:** (fill in your real lines)  
+- This section lets users send a message or see contact info.
+
+**Power Classes:**
+- `contact`
+- `php-email-form`
+- `info`
+
+---
+
+## Footer Section
+- **Lines:** (fill in your real lines)  
+- Bottom part of the page with links and social media icons.
+
+**Power Classes:**
+- `footer`
+- `social-links`
+- `copyright`
